@@ -12,6 +12,11 @@ namespace WordCounter
           string UserPhrase = Console.ReadLine();
           Console.WriteLine("Please enter a word the check the previous sentence with.");
           string UserWord = Console.ReadLine();
+          while (UserWord.Contains(" "))
+          {
+            Console.WriteLine("Please enter a single word.");
+            UserWord = Console.ReadLine();
+          }
           int CountWords = Words123.wordCounter(UserPhrase,UserWord);
           Console.WriteLine(UserWord + " appears in (" + UserPhrase + ") " + CountWords + " times.");
 

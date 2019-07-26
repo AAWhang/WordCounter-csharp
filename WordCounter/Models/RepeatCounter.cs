@@ -7,11 +7,6 @@ namespace WordCounter.Models
       public int wordCounter (string phrase, string word)
       {
         int wordnum = 0;
-        while (word.Contains(" "))
-        {
-          Console.WriteLine("Please enter a single word.");
-          word = Console.ReadLine();
-        }
         string lphrase = phrase.ToLower();
         string lword = word.ToLower();
         string[] phraseArr = lphrase.Split(" ");
