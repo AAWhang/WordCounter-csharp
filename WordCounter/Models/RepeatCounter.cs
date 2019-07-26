@@ -8,7 +8,7 @@ namespace WordCounter.Models
       {
         int wordnum = 0;
         string lphrase = phrase.ToLower();
-        string lword = word.ToLower();
+        string lword = word.ToLower();  
         string[] phraseArr = lphrase.Split(" ");
         for (int i = 0; i < phraseArr.Length; i++)
         {
