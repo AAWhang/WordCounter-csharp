@@ -1,0 +1,11 @@
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\obj\Debug\netcoreapp2.2\WordCounter.csprojAssemblyReference.cache
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\obj\Debug\netcoreapp2.2\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\obj\Debug\netcoreapp2.2\WordCounter.AssemblyInfoInputs.cache
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\obj\Debug\netcoreapp2.2\WordCounter.AssemblyInfo.cs
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\bin\Debug\netcoreapp2.2\WordCounter.deps.json
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\bin\Debug\netcoreapp2.2\WordCounter.runtimeconfig.json
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\bin\Debug\netcoreapp2.2\WordCounter.runtimeconfig.dev.json
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\bin\Debug\netcoreapp2.2\WordCounter.dll
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\bin\Debug\netcoreapp2.2\WordCounter.pdb
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\obj\Debug\netcoreapp2.2\WordCounter.dll
+C:\Users\ABXYLR\desktop\project\csharp\WordCounter-csharp\WordCounter\obj\Debug\netcoreapp2.2\WordCounter.pdb
